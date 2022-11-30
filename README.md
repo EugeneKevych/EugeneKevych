@@ -1,4 +1,4 @@
-### Hi 👋 Eugene Stashkevych
+### <h1>Hi 👋 Eugene Stashkevych</h1>
 
 <h2>Stand with Ukraine <a href="https://prytulafoundation.org/en"><img align="left" alt="Java" width="30px" src="https://images.emojiterra.com/openmoji/v13.1/512px/1f1fa-1f1e6.png"/></a>
 
